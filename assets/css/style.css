@@ -169,6 +169,13 @@ main {
   text-align: center;
 }
 
-.footer h2 {
+.footer {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 25px;
+  border-radius: 30px;
+  background-color: #2a607c;
+  color: #ffffff;
   font-size: 20px;
 }
