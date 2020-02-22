@@ -162,6 +162,13 @@ main {
 /* FOOTER */
 
 .footer {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-style: outset;
+  border-radius: 20px;
+  background-color: #2a607c;
+  color: #ffffff;
   padding: 20px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
